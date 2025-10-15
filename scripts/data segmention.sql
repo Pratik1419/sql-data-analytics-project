@@ -1,0 +1,3 @@
+-- DATA SEGMENTATION
+-- Group the data based on a specific range.
+-- Helps understand the correlation between two measures.
